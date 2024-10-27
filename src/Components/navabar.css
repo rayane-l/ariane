@@ -1,0 +1,140 @@
+.skewed {
+  position: absolute;
+  top: 3;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: whitesmoke;
+  z-index: 0;
+  transform: skewY(-15deg);
+  transform-origin: top left;
+  overflow: hidden;
+}
+
+.skewed::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 1px;
+  background-color: red;
+  transform: skewY(20deg);
+}
+
+
+
+
+
+@keyframes move {
+  100% {
+      transform: translate3d(0, 0, 1px) rotate(360deg);
+  }
+}
+
+#background {
+  background: black;
+  overflow: hidden;
+}
+
+#background span {
+  width: 20vmin;
+  height: 20vmin;
+  backface-visibility: hidden;
+  position: absolute;
+  animation: move;
+  animation-duration: 50s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  background-image: url('../../public/logos/ariane.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Customize the span positions, animation duration, and delays for your specific pattern */
+#background span:nth-child(1) {
+  top: 50%;
+  left: 50%;
+  animation-duration: 10s;
+  animation-delay: -10s;
+  transform-origin: center;
+}
+#background span:nth-child(2) {
+  top: 25%;
+  left: 75%;
+  animation-duration: 10s;
+  animation-delay: -15s;
+  transform-origin: center;
+}
+#background span:nth-child(3) {
+  top: 75%;
+  left: 25%;
+  animation-duration: 10s;
+  animation-delay: -20s;
+  transform-origin: center;
+}
+#background span:nth-child(4) {
+  top: 10%;
+  left: 40%;
+  animation-duration: 40s;
+  animation-delay: -20s;
+  transform-origin: center;
+}
+
+#background span:nth-child(5) {
+  bottom: 10%;
+  right: 5%;
+  animation-duration: 40s;
+  animation-delay: -20s;
+  transform-origin: center;
+}
+
+#background span:nth-child(6) {
+  top: 1%;
+  right: 15%;
+  animation-duration: 10s;
+  animation-delay: -20s;
+  transform-origin: center;
+}
+
+/* #background span:nth-child(1) {
+  
+  top: 34%;
+  left: 90%;
+  animation-duration: 6s;
+  animation-delay: -1s;
+  transform-origin: 15vw 17vh;
+  box-shadow: -40vmin 0 5.451569964344091vmin currentColor;
+}
+#background span:nth-child(2) {
+  
+  top: 68%;
+  left: 26%;
+  animation-duration: 6s;
+  animation-delay: -1s;
+  transform-origin: 4vw -19vh;
+  box-shadow: -40vmin 0 5.349129059005435vmin currentColor;
+}
+#background span:nth-child(3) {
+  
+  top: 6%;
+  left: 25%;
+  animation-duration: 6s;
+  animation-delay: -1s;
+  transform-origin: 9vw -7vh;
+  box-shadow: -40vmin 0 5.940457942749748vmin currentColor;
+}
+#background span:nth-child(4) {
+ 
+  top: 76%;
+  left: 16%;
+  animation-duration: 6s;
+  animation-delay: -1s;
+  transform-origin: 20vw -6vh;
+  box-shadow: 40vmin 0 5.243832770709932vmin currentColor;
+} */
+
+/* Add more span selectors and customize their positions and animations as needed */
+

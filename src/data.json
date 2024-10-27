@@ -1,0 +1,494 @@
+[
+    {
+        "Nom": "VASILE",
+        "Prenom": "Aurelia",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "aurelia.vasile@uca.fr",
+        "Ville": "Clermont Ferrand",
+        "Labo": "MSH",
+        "coordonnees":  [
+            3.08,
+            45.78
+        ]
+    },
+    {
+        "Nom": "SAIDI",
+        "Prenom": "Samantha",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "samantha.saidi@persee.fr",
+        "Ville": "Lyon",
+        "Labo": "UAR Persée",
+        "coordonnees": [
+            4.835,
+            45.757
+        ]
+    },
+    {
+        "Nom": "ABIVEN",
+        "Prenom": "Karine",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "karine.abiven@sorbonne-universite.fr",
+        "Ville": "Paris",
+        "Labo": "STIH",
+        "coordonnees": [
+            2.352,
+            48.856
+        ]
+    },
+    {
+        "Nom": "BREUIL",
+        "Prenom": "Sandrine",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "sandrine.breuil@univ-tours.fr",
+        "Ville": "Tours",
+        "Labo": "CESR UMR 7323",
+        "coordonnees":  [
+            0.685,
+            47.393
+        ]
+    },
+    {
+        "Nom": "NUH",
+        "Prenom": "Ilsiona",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "Ilsiona.Nuh@ext.uca.fr",
+        "Ville": "Clermont-Ferrand",
+        "Labo": "Centre de Recherches sur les Littératures et la Sociopoétique, Axe de recherche Corpus en diachronie",
+        "coordonnees": [
+            3.08,
+            45.78
+        ]
+    },
+    {
+        "Nom": "JACQUOT",
+        "Prenom": "Olivier",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "olivier.jacquot@bnf.fr",
+        "Ville": "Paris",
+        "Labo": null,
+        "coordonnees": [
+            2.352,
+            48.856
+        ]
+    },
+    {
+        "Nom": "CHAMBAT",
+        "Prenom": "Anaïs",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "anais.chambat@cyu.fr",
+        "Ville": "CERGY",
+        "Labo": "EA 7518 LT2D",
+        "coordonnees": [
+            2.083,
+            49.036
+        ]
+    },
+    {
+        "Nom": "SZABADOS",
+        "Prenom": "Anne-Violaine",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "anne-violaine.szabados@cnrs.fr",
+        "Ville": "Paris",
+        "Labo": "ArScAn-Archéologies et Sciences de l'Antiquité - UMR7041",
+        "coordonnees": [
+            2.352,
+            48.856
+        ]
+    },
+    {
+        "Nom": "TUFFERY",
+        "Prenom": "Christophe",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "christophe.tuffery@inrap.fr",
+        "Ville": "Paris",
+        "Labo": "UMR TEMPS",
+        "coordonnees": [
+            2.352,
+            48.856
+        ]
+    },
+    {
+        "Nom": "BOEGLIN",
+        "Prenom": "Michel",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "boeglin.um3@gmail.com",
+        "Ville": "Montpellier",
+        "Labo": "IRIEC EA 740",
+        "coordonnees": [
+            3.879,
+            43.611
+        ]
+    },
+    {
+        "Nom": "DEMONET",
+        "Prenom": "Marie-Luce",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "marie-luce.demonet@univ-tours.fr",
+        "Ville": null,
+        "Labo": "CESR",
+        "coordonnees": [
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "Nom": "ECHAVARRIA",
+        "Prenom": "Andrés",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "andresechavarriapelaez@gmail.com",
+        "Ville": "MONTPELLIER",
+        "Labo": null,
+        "coordonnees": [
+            3.879,
+            43.611
+        ]
+    },
+    {
+        "Nom": "LE MEUR",
+        "Prenom": "Mathilde",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "mathilde.lemeur@univ-grenoble-alpes.fr",
+        "Ville": "Grenoble",
+        "Labo": "Litt&Arts",
+        "coordonnees": [
+            5.724,
+            45.191
+        ]
+    },
+    {
+        "Nom": "DELABORDE",
+        "Prenom": "Marine",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "marine.delaborde@cyu.fr",
+        "Ville": "Cergy",
+        "Labo": "LT2D",
+        "coordonnees": [
+            2.083,
+            49.036
+        ]
+    },
+    {
+        "Nom": "ALBISSON",
+        "Prenom": "Mathilde",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "mathilde.albisson@uab.cat",
+        "Ville": "Barcelone",
+        "Labo": "Seminario de Estudios sobre el Renacimiento",
+        "coordonnees": [
+            2.175,
+            41.385
+        ]
+    },
+    {
+        "Nom": "SALGADO",
+        "Prenom": "Ana",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "anacastrosalgado@gmail.com",
+        "Ville": "Lisbon",
+        "Labo": "Linguistics Research Centre of NOVA University Lisbon (CLUNL)",
+        "coordonnees": [
+            -9.142,
+            38.722
+        ]
+    },
+    {
+        "Nom": "ROUSSEAU",
+        "Prenom": "Nathalie",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "nathalie.rousseau@sorbonne-universite.fr",
+        "Ville": "Paris",
+        "Labo": "UMR 8167 Orient et Méditerranée",
+        "coordonnees": [
+            2.352,
+            48.856
+        ]
+    },
+    {
+        "Nom": "COSTA",
+        "Prenom": "Rute",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "rute.costa@fcsh.unl.pt",
+        "Ville": "Lisbonne",
+        "Labo": "Centre de Linguistique de l'Université NOVA de Lisbonne",
+        "coordonnees": [
+            -9.133,
+            38.708
+        ]
+    },
+    {
+        "Nom": "NUGUET",
+        "Prenom": "Jules",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "jules.nuguet@cnrs.fr",
+        "Ville": "Lyon",
+        "Labo": null,
+        "coordonnees": [
+            4.835,
+            45.757
+        ]
+    },
+    {
+        "Nom": "LOPEZ HIDALGO",
+        "Prenom": "Héctor",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "hector.investigacion.sociocul@gmail.com",
+        "Ville": "Toulouse",
+        "Labo": "IRIT",
+        "coordonnees": [
+            1.434,
+            43.604
+        ]
+    },
+    {
+        "Nom": "Chesnet",
+        "Prenom": "David",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "david.chesnet@univ-poitiers.fr",
+        "Ville": "Poitiers",
+        "Labo": "MSHS, UAR3565 Cnrs-Université de Poitiers",
+        "coordonnees": [
+            0.340,
+            46.580
+        ]
+    },
+    {
+        "Nom": "Cuxac",
+        "Prenom": "Pascal",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "pascal.cuxac@inist.fr",
+        "Ville": "Vandoeuvre lès Nancy",
+        "Labo": null,
+        "coordonnees": [
+            6.141,
+            48.656
+        ]
+    },
+    {
+        "Nom": "froye",
+        "Prenom": "Marianne",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "marianne.froye@univ-fcomte.fr",
+        "Ville": "Besançon",
+        "Labo": "ELLIADD",
+        "coordonnees": [
+            6.030,
+            47.240
+        ]
+    },
+    {
+        "Nom": "WILLIAMS",
+        "Prenom": "Geoffrey",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "geoffrey.williams@univ-grenoble-alpes.fr",
+        "Ville": "Priziac",
+        "Labo": "UMR 5316, Litt & Arts",
+        "coordonnees": [
+            -3.525,
+            48.046
+        ]
+    },
+    {
+        "Nom": "Lécroart",
+        "Prenom": "Pascal",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "pascal.lecroart@univ-fcomte.fr",
+        "Ville": "Besançon",
+        "Labo": "ELLLIADD (UR 4661)",
+        "coordonnees": [
+            6.030,
+            47.240
+        ]
+    },
+    {
+        "Nom": "Dandin",
+        "Prenom": "Thomas",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "thomas.dandin@univ-fcomte.fr",
+        "Ville": "Besançon",
+        "Labo": "ELLIADD UR 4661",
+        "coordonnees": [
+            6.030,
+            47.240
+        ]
+    },
+    {
+        "Nom": "RUIZ FABO",
+        "Prenom": "Pablo",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "ruizfabo@unistra.fr",
+        "Ville": "Strasbourg",
+        "Labo": "LiLPa UR 1339 - Linguistique, Langues et Parole",
+        "coordonnees": [
+            7.752,
+            48.583
+        ]
+    },
+    {
+        "Nom": "Morlock",
+        "Prenom": "Emmanuelle",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "emmanuelle.morlock@cnrs.fr",
+        "Ville": "Lyon",
+        "Labo": "Histoire et Sources des Mondes antiques",
+        "coordonnees": [
+            4.835,
+            45.757
+        ]
+    },
+    {
+        "Nom": "Bastin",
+        "Prenom": "Malika",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "malika.bastin@univ-grenoble-alpes.fr",
+        "Ville": "Grenoble",
+        "Labo": "UMR 5316 Litt&Arts",
+        "coordonnees": [
+            5.724,
+            45.191
+        ]
+    },
+    {
+        "Nom": "MAROIS",
+        "Prenom": "Alain",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "alain.marois@univ-lyon2.fr",
+        "Ville": "Lyon",
+        "Labo": "CIHAM UMR 5648",
+        "coordonnees": [
+            4.835,
+            45.757
+        ]
+    },
+    {
+        "Nom": "Pensec",
+        "Prenom": "Emmanuelle",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "emmanuellepensec@outlook.fr",
+        "Ville": "Lorient",
+        "Labo": null,
+        "coordonnees": [
+            -3.370,
+            47.748
+        ]
+    },
+    {
+        "Nom": "PORTE",
+        "Prenom": "Guillaume",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "gporte@unistra.fr",
+        "Ville": "Strasbourg",
+        "Labo": "ARCHE UR3400",
+        "coordonnees": [
+            7.752,
+            48.583
+        ]
+    },
+    {
+        "Nom": "Garcia Fernandez",
+        "Prenom": "Anne",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "annegf@univ-grenoble-alpes.fr",
+        "Ville": "Grenoble",
+        "Labo": "Litt&Arts (UMR 5316)",
+        "coordonnees": [
+            5.724,
+            45.191
+        ]
+    },
+    {
+        "Nom": "Plagnard",
+        "Prenom": "Aude",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "aude.plagnard@gmail.com",
+        "Ville": "Montpellier",
+        "Labo": "IRIEC, Université Paul-Valéry",
+        "coordonnees": [
+            3.879,
+            43.611
+        ]
+    },
+    {
+        "Nom": "CARIOU",
+        "Prenom": "Morgane",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "morgane.cariou@sorbonne-universite.fr",
+        "Ville": "Paris",
+        "Labo": "UMR 8167 Orient et Méditerranée",
+        "coordonnees": [
+            2.352,
+            48.856
+        ]
+    },
+    {
+        "Nom": "HUE-GAY",
+        "Prenom": "Elysabeth",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "elysabeth.hue-gay@mom.fr",
+        "Ville": "Lyon",
+        "Labo": "UMR 5189 Histoires et sources des mondes antiques (HiSoMA)",
+        "coordonnees": [
+            4.835,
+            45.757
+        ]
+    },
+    {
+        "Nom": "Fins",
+        "Prenom": "Jorge",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "fins@univ-tours.fr",
+        "Ville": "Tours",
+        "Labo": "MSH Val de Loire",
+        "coordonnees": [
+            0.685,
+            47.393
+        ]
+    },
+    {
+        "Nom": "REY",
+        "Prenom": "Christophe",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "christophe.rey@u-cergy.fr",
+        "Ville": "Cergy",
+        "Labo": "LT2D (EA 7518)",
+        "coordonnees": [
+            2.083,
+            49.036
+        ]
+    },
+    {
+        "Nom": "LOUDCHER",
+        "Prenom": "Sabine",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "sabine.loucher@univ-lyon2.fr",
+        "Ville": "Lyon",
+        "Labo": "ERIC",
+        "coordonnees": [
+            4.835,
+            45.757
+        ]
+    },
+    {
+        "Nom": "GALLERON ",
+        "Prenom": "Ioana",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "ioana.galleron@gmail.com",
+        "Ville": "Paris ",
+        "Labo": "LATTICE UMR8094",
+        "coordonnees": [
+            2.352,
+            48.856
+        ]
+    },
+    {
+        "Nom": "IDMHAND",
+        "Prenom": "Fatiha",
+        "Fonction": "Doctorante contractuelle en sciences du langage",
+        "Email": "fatihaidmhand@yahoo.es",
+        "Ville": "Poitiers",
+        "Labo": "ITEM UMR8132",
+        "coordonnees": [
+            0.340,
+            46.580
+        ]
+    }
+]
