@@ -27,7 +27,7 @@ export default function HomePage() {
              <Headers titre={"Les Membres"} theme={"Les membres du Consortium Ariane sont des chercheurs, enseignants-chercheurs et ingénieurs issus de différentes institutions internationales."} />
             </div>
             <div class="flex items-center justify-center min-h-screen">
-            <div className='w-[85vw] h-[87vh]  ' >
+            <div className='w-[85vw] h-[87vh] border-l-2 border-r-2 border-red-700 ' >
                 <Mapi />
             </div></div>
         </article>
