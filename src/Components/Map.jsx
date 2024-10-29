@@ -82,7 +82,7 @@ const MyMap = () => {
       
     <MapContainer center={[46.2276, 2.2137]} zoom={4}  style={{height:'100%',width:'100%' }} >
       <TileLayer
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+        url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
         attribution=''
       />
       {Object.values(groupedMarkers).map((group, index) => {
