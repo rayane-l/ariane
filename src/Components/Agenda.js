@@ -17,7 +17,7 @@ export default function Agenda() {
            <Headers titre={"L'Agenda"} theme={"L'Agenda d'activités du Consortium Ariane est élaboré par ses membres et groupes de travail. Cet agenda présente toute la variété d'activités du Consortium. "} />
            <script data-cfasync="false" data-tockify-script="embed" src="https://public.tockify.com/browser/embed.js"></script>
            <div id='agenda' className="flex items-center justify-center min-h-screen p-5">
-              <div id='agenda' Style='width: 80%; height:300;  '>
+              <div id='agenda' Style='width: 80%; height:300;' className='border-l-2 border-r-2 border-red-700'>
 
                    <div class="tockify-calendar"  data-tockify-component="default" data-tockify-calendar="6702ba65205890162e62b2d9"></div>
               
